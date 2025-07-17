@@ -52,3 +52,6 @@ Como ejemplode haré uso de la función `BuscarV` para traer la información de 
 
 ## Power Pivot
 Es una tecnología de modelado de datos que permite crear modelos, establecer relaciones y crear cálculos.
+Para este caso la usaremos para establecer relación entre nuestra tabla Datos y nuestra tabla País.
+
+
